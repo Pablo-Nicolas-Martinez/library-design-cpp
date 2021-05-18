@@ -1,5 +1,5 @@
 # Library design in C++
-This repository is the source of all the code used in the *Library design in C++* course. This is a 6 hour course offered for first year CFIS students during spring classes. The objective of the course is to learn the fundamentals of libraries in C++ and how to use them to write scalable and reusable code in C++. Therefore, it is focused around the structure of a repository and the data structures needed to acomplish this objective, like struct and class. Makefiles are also introduced, although they are not explained in depth. An interesting concept is that of templates and how they can be used to create code that is faster if a problem is known at compile time.
+This repository is the source of all the code used in the *Library design in C++* course. This is a 6 hour course offered for first year CFIS students during spring classes. The objective of the course is to learn the fundamentals of libraries in C++ and how to use them to write scalable and reusable code in C++. Therefore, it is focused around the structure of a repository and the data structures needed to acomplish this objective, like struct and class. Makefiles are also introduced, although they are not explained in depth.
 
 ### Structure of the repository
 This repository contains ....
